@@ -1,0 +1,14 @@
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/bin/Debug/net7.0/TestConsole
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/bin/Debug/net7.0/TestConsole.deps.json
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/bin/Debug/net7.0/TestConsole.runtimeconfig.json
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/bin/Debug/net7.0/TestConsole.dll
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/bin/Debug/net7.0/TestConsole.pdb
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.AssemblyInfoInputs.cache
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.AssemblyInfo.cs
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.csproj.CoreCompileInputs.cache
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.dll
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/refint/TestConsole.dll
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.pdb
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/TestConsole.genruntimeconfig.cache
+/Users/olegshigin/Desktop/ВУЗ/C#/TestConsole/obj/Debug/net7.0/ref/TestConsole.dll
