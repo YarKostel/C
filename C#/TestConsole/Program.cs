@@ -45,7 +45,7 @@ internal class Program {
                     Console.ForegroundColor = ConsoleColor.DarkYellow;
                     break;
             }
-            
+            ///kflfnlakbbkj1ee1d
 
             if(k == n)
                 Console.WriteLine($"{result}*A^{n-k}*B^{k}");
