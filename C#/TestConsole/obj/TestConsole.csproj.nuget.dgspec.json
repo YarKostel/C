@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj": {}
+    "d:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj": {}
   },
   "projects": {
-    "D:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj": {
+    "d:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj",
+        "projectUniqueName": "d:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj",
         "projectName": "TestConsole",
-        "projectPath": "D:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj",
+        "projectPath": "d:\\Git\\C\\C#\\TestConsole\\TestConsole.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\C\\C#\\TestConsole\\obj\\",
+        "outputPath": "d:\\Git\\C\\C#\\TestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
